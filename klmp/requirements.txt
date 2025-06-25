@@ -3,7 +3,7 @@ torch
 diffusers==0.24.0
 transformers
 accelerate
-huggingface_hub
+huggingface_hub>=0.23.0
 Pillow
 requests
 beautifulsoup4

@@ -1,6 +1,6 @@
 streamlit
-diffusers==0.16.1
-transformers==4.30.2
-torch==2.0.1+cpu
+diffusers==0.27.2
+transformers==4.41.1
+torch==2.7.1+cpu
 Pillow
 --extra-index-url https://download.pytorch.org/whl/cpu

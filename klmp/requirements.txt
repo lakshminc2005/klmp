@@ -1,5 +1,9 @@
 streamlit
-torch
-diffusers
 transformers
+torch
+diffusers==0.24.0
+accelerate
 Pillow
+requests
+beautifulsoup4
+nltk

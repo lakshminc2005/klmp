@@ -1,10 +1,8 @@
 streamlit
-torch
 diffusers==0.24.0
+huggingface_hub==0.23.1
 transformers
+torch
 accelerate
-huggingface_hub>=0.23.0
+safetensors
 Pillow
-requests
-beautifulsoup4
-nltk
